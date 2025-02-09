@@ -36,7 +36,7 @@ This is a simple Tic-Tac-Toe game implemented in C++.
 Enter a position (1-9): 5
  X |   |   
 ---|---|---
-   | X |   
+   | O |   
 ---|---|---
    |   |   
 ```
