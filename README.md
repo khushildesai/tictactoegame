@@ -34,9 +34,9 @@ This is a simple Tic-Tac-Toe game implemented in C++.
 ## Example Output
 ```
 Enter a position (1-9): 5
- X |   |   
+ O |   |   
 ---|---|---
-   | O |   
+   | X |   
 ---|---|---
    |   |   
 ```
